@@ -1,3 +1,4 @@
+
 ECO CONNECT
 Descrição do Projeto
 Este projeto foi desenvolvido como parte de um trabalho acadêmico para a faculdade, focado em soluções de energia limpa. O objetivo do projeto é gerenciar informações sobre diferentes projetos de energia sustentável, incluindo detalhes como tipo de fonte de energia, região, custo estimado e status do projeto.
